@@ -1,0 +1,42 @@
+computer
+incorporate
+accurate
+locate
+resolve
+monitor
+['ведение дела', ['transaction', 'conduct']]
+['родовые муки', ['labor pains', 'travail', 'throes of childbirth', 'labour', 'throes', 'labor']]
+['формально-юридический', ['technical']]'
+technical
+['выходить', ['come out', 'exit', 'go out', 'get out', 'egress', 'issue']]
+['относиться по-разному', ['discriminate']]
+medical
+['студент-медик', ['medic', 'medical', 'medico'], None, None, None, 1]
+['покупать что-л.', ['invest']]
+['лицо, ведущее радиоперехват', ['monitor']]
+['поручать ведение дела в суде', ['brief']]
+['формально-юридический', ['technical']]
+['женское платье-рубашка', ['shift']]
+['то, что подразумевается', ['implication', 'implicate', 'connotation']]
+items
+['то, что подразумевается', ['implication', 'implicate', 'connotation']]
+['серо-голубой цвет', ['neutral tint', 'neutral color', 'neutral']]
+concurrent
+['запись прибора-самописца', ['trace']]
+['сумма, записанная на приход', ['credit']]
+likewise
+derived
+['ссыпать в кучу', ['bulk']]
+['ссыпать', ['bulk', 'shoot']]
+widespread
+['выходить', ['come out', 'exit', 'go out', 'get out', 'egress', 'issue']]
+enforce
+features
+['подавать какой-л. документ', ['file']]
+['клавиатура органа', ['manual']]
+['кое-что', ['something', 'somewhat']]
+['что-то', ['something', 'somewhat']]
+['лицо, принятое в общество', ['initiate']]
+
+
+-----

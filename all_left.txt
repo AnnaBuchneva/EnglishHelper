@@ -1,0 +1,1398 @@
+leads;0
+convert;0
+sphere;0
+cubical;0
+detrimental (harmful);0
+specific;0
+colleague;0
+empirical (based on observation);0
+allocate;0
+attitude;0
+job;0
+radically (fundamentally);0
+defeat;0
+compile;0
+inevitable;0
+commission;0
+option;0
+anticipate;0
+internal;0
+presume;0
+resident;0
+equivalent;0
+shift;0
+remoteness (isolation);0
+hibernate;0
+hence;0
+finer;0
+status;0
+basis of these;0
+flooding;0
+symbol;0
+sediment;0
+superiority;0
+exploit (make use of, use to advantage);0
+the applications of ... (the uses to which ... was put);0
+confined (limited);0
+concentrate (focus);0
+generate;0
+particular (specific);0
+coffee;0
+expert;0
+initiate;0
+evolve;0
+flourished;0
+conclusion;0
+code;0
+understanding;0
+pessimistic (negative);0
+reveal (show);0
+guarantee;0
+roughly (approximately);0
+disclose;0
+team;0
+entirely (completely);0
+surpass (exceed);0
+undeniably;0
+induce;0
+altogether;0
+conspicuous (noticeable);0
+minimum;0
+deduce;0
+logging;0
+superseded (replaced);0
+unfortunately;0
+conquer;0
+intense;0
+relatively (comparatively);0
+rural;0
+required;0
+technique;0
+response;0
+transform;0
+thereby;0
+intricate (complex);-1
+area;0
+distort;0
+enforce;0
+traffic;0
+publish;0
+append;0
+happiness;0
+no wonder (unsurprising);0
+conform;0
+elaborations (development);0
+conversely (on the other hand);0
+sufficient;0
+quintessential;0
+discriminate;0
+unurbanized;0
+integrity;0
+compact (smaller);0
+theatre;0
+region;0
+roughly (approximately);0
+restricted (limited);0
+document (record);0
+predominant;0
+attest to;0
+sovereign (master);0
+projected (shown);0
+potential;0
+declining (weakening);0
+approximate;0
+extended;0
+ambiguity;0
+severely (very seriously);0
+phase;0
+maintenance;0
+peak (high point);-1
+authoritative (official);0
+enhance;0
+indigenous (native);0
+mystery;0
+graphically (vividly);0
+apart from (besides);0
+braided;0
+finite;-1
+crisis (critical situation);0
+advocate;0
+component;0
+emphasis;0
+available;-1
+exploit (make use of, use to advantage);0
+reject;0
+computer;0
+vital;0
+practical (usable);0
+inflating (enlarging);-1
+document;0
+stress;0
+signal (communicate);0
+phenomenon;0
+impact;0
+significant;0
+analyse;0
+widespread;0
+undeniably;0
+features;-1
+fluctuate;-1
+positive;0
+accumulations (deposits);0
+transformed (changed);0
+dynamic;0
+attributes (properties);0
+lousy;0
+displace;0
+input;0
+transport;-1
+dimension;0
+halted (stopped);0
+clay;0
+consequently (therefore);0
+sequence;0
+enhance (improve);0
+notwithstanding;0
+achieve;0
+tense;0
+crucial;0
+key (essential);0
+reinforce;0
+occurred;0
+addiction;0
+resistant;0
+whether;0
+dispose;0
+eventual;0
+pursue;0
+entitled to (given the right to);0
+there is no doubt;0
+infrequent (uncommon);0
+oversight;0
+handling capacity;0
+ministry;-1
+aware;0
+apparent;0
+leisure;0
+detect;0
+termed (called);0
+despite;0
+essential;0
+comprehension;0
+policy;0
+interact;0
+site;0
+disciplines;0
+option (choice);0
+comprise (make up);-1
+far reaching;0
+within;0
+talent;0
+conscious;0
+modified (changed);0
+unaltered (unchanged);0
+economic;0
+tremendous;0
+plastered;0
+crucial (important);0
+household;0
+duplicated (copied);0
+especially (notably);0
+consist;0
+devote;0
+improvements;0
+thorough (comprehensive);0
+integrate;0
+be deficient in (not have enough);0
+dialogues;0
+convenience;0
+remnants;0
+erected (built);0
+impartial;0
+explicit;0
+shortly;0
+differing (varying);0
+identified;0
+oversaw (supervised);0
+dispel;0
+though;0
+regime;-1
+statistic;0
+concept;0
+analogy;0
+challenge;0
+lives;0
+purchase;0
+phenomena (occurrences);-1
+significant;0
+pandemic;0
+income;0
+illustrate;0
+receive;0
+annual;0
+draft;0
+key (crucial);0
+vision;0
+adult;0
+outdated (old-fashioned);0
+implicate;0
+splendid (magnificent);0
+virtually (almost totally);0
+stable;0
+aggregate (combined);0
+efficiency;0
+jealousy;0
+enable;0
+facilitate (ease);0
+exploited (utilized);0
+troops;0
+lamenting;0
+attempt (seek);0
+precise (exact);0
+assume;-1
+distinguish;0
+devour (eat);0
+accurate;0
+output;0
+maintain;0
+concerning;0
+duration;0
+license;0
+flexible;0
+derive (obtain);0
+discern (identify);0
+role;0
+nevertheless;0
+regularly;0
+perpetuated (continued);0
+instalment;-1
+historical events;0
+vast plain;0
+surplus;0
+circumstance;0
+whereby;0
+ethnic;0
+kilometres;0
+potential (possible);0
+procedure;0
+strictly (exclusively);0
+perception;0
+following in time (subsequent);0
+trigger;0
+unnecessary;0
+innumerable (countless);0
+luminous (bright);0
+unconsciously;0
+legal;0
+imply;0
+consequently;0
+faithful (exact);0
+differentiate;0
+equip;0
+reverse;0
+expose;0
+pervasive (widespread);-1
+notwithstanding;0
+escalated (intensified);0
+energy;0
+encounters (meets);0
+tolerant of (able to withstand);0
+hence;0
+uncover;0
+strategy;0
+impressive;0
+intelligence;0
+undergoes (experiences);0
+superficially (without deeper analysis);0
+confirm;0
+invariably (always);0
+predators;0
+ethic;0
+ineffective;0
+modest (small);0
+friction (conflict);0
+margin;0
+coherent;0
+astonishing (incredible);0
+framework;0
+massive (enormous);0
+interval;0
+minimize;0
+vast (huge);0
+informed decision;0
+therefore;0
+diverted (shifted);0
+virtue;0
+straightforward;0
+incorporate;0
+prohibit;0
+muster up;0
+deteriorated (got worse);0
+faithful (accurate);0
+consequently (as a result);0
+controversy;0
+relevant;0
+knowledge;0
+boulders and cobbles;-2
+nonetheless;0
+involving;0
+neutral;0
+incline;0
+flexible (adaptable);0
+debate;0
+contribute;0
+vigorous;0
+nourishment;0
+comment;-1
+controversial (causing strong disagreement);-1
+squeezed out a smile;0
+climate;0
+unearthed (discovered);0
+instance;0
+occupy;0
+prospect;-1
+receive;0
+ambiguous;0
+hence;0
+renown (fame);0
+environment;0
+attribute;0
+lousy;0
+consequent (resulting);-1
+continually;0
+authenticity (genuineness);0
+ancestor (relative from earlier generation);0
+abundant (plentiful);0
+availability;0
+enormous;0
+data;0
+significant (important);0
+sacred (holy);0
+enhanced;0
+objective;-1
+plausibly (possibly);0
+vehicle;0
+recipients;0
+distinctive (characteristic);0
+extreme;0
+eliminate;0
+mode;0
+signature (identifying mark);0
+assure;0
+rigid;0
+confine;0
+emphasize;0
+surpassing (exceeding);0
+suspend;0
+financially;0
+ordinary;0
+precede;0
+proposed (suggested);0
+culminate (reach completion);0
+identical;0
+essential;0
+previous;0
+managed (were able);0
+practitioner;-1
+capacity (available storage space);0
+opportunities;-1
+substantial (large);0
+inevitable (unavoidable);0
+admitted (accepted the truth of);0
+unanticipated (not expected);0
+conflict;0
+section;0
+substitute;-1
+discussion;0
+intact (undamaged);0
+ultimately (finally);0
+nevertheless;0
+engraved (carved);0
+continuous (uninterrupted);0
+manner;0
+inhibit;0
+communicate;0
+definition;0
+reluctance;-1
+traditionally (typically);0
+scheme;0
+complex (system);0
+occurrences;-1
+alter;0
+interpreted (understood);0
+countering (acting against);0
+contrary;0
+so-called;0
+previous;-1
+exceptionally (unusually);0
+without;0
+ratio;0
+modest (not large);-1
+generated (produced);-1
+former;0
+automate;0
+accidental (unintentional);0
+suitable (appropriate);0
+resolve;0
+substantially (considerably);0
+insight;0
+megapolis;0
+fundamental;0
+construction;0
+formula;0
+psychology;0
+exciting;0
+cooperate;0
+martian;0
+century;0
+contact;0
+eliminate (get rid of);0
+offset;0
+eliminate;0
+trend;0
+relax;0
+abound (numerous);0
+enormous;0
+inadvertently (unintentionally);0
+ingenuity;0
+response;0
+completely;0
+volume;0
+exhibit (show);0
+furthermore;0
+preliminary;0
+commit;0
+humble (modest);0
+bulk;0
+avoid;0
+exceptionally (extraordinarily);-1
+themselves;0
+remarkable change (dramatic increase);0
+achieved;0
+attain (achieve);0
+noticeable;0
+period;0
+specify;0
+in spite of, in spite;0
+comparative (relative);0
+tryst;0
+heights;0
+accumulate (build up);0
+inevitably (necessarily);0
+context;0
+logic;0
+undermine;0
+order (sequence);0
+legendary (famous);0
+profound;0
+final;0
+respectively (separately);-1
+growing;0
+enhance;0
+image;0
+outcome;0
+regulating (controlling);0
+implicit;0
+conspicuous (clearly visible);0
+supplement;0
+current (present);0
+utilize;0
+spectacular (impressive);0
+obtain;0
+underlie;0
+constant;0
+strained;0
+comprehensive (complete);0
+refugee;0
+optional;0
+compensating for (making up for);0
+plausible (reasonable);0
+confer;0
+presumably (it can be assumed);0
+nonetheless;0
+convinced (persuaded);0
+entirely;0
+virtual;0
+undoubtedly;0
+approach;0
+not to mention;0
+phenomenon;0
+nonetheless (however);0
+components (parts);0
+instructive (informative);0
+simultaneously (at the same time);-1
+prompted (brought about);0
+predict;0
+cycle;0
+couple;0
+profound;0
+converge (move closer);0
+rarely;0
+sector;0
+eliminated;-1
+abundant (plentiful);0
+precise;0
+drawback (problem);0
+seek;0
+resume (restart);0
+paid;0
+negate;0
+coating (layer);-1
+medium;0
+insert;0
+publication;0
+primarily;0
+twentieth century;0
+justify;0
+widespread (common);0
+constant (unchanging);0
+allusion (reference);-1
+domain;0
+investigate;0
+enigmatic (mysterious);0
+alteration (change);0
+scope;0
+commodity;0
+whereas;0
+vapor;0
+vulnerability;0
+indigent;0
+diverse;0
+sites;0
+method;0
+circumstances (conditions);0
+infer;0
+theory;0
+elaborate;0
+bustling;0
+invoke;0
+consumed (eaten);0
+function;0
+albeit (though);0
+restrain;0
+transferred;0
+compacted (compressed);0
+persisted (continued);0
+contain;0
+overall;0
+curious (strange);0
+technology;0
+mythical;0
+brief;0
+acknowledge;-2
+unify;0
+verbal;0
+emerge;0
+simultaneously (at the same time);0
+excavated;0
+mechanism;0
+heterogeneous (varied);0
+instruct;0
+multitudinous (a great many);0
+conceive;-1
+catastrophic;0
+concurrent;0
+exploited (utilized);0
+viable (able to survive);0
+revise;0
+cohorts;0
+normal;0
+accompanied by (occurs together with) jointly (together);0
+impetus (stimulus);0
+welfare;0
+adjacent (nearby);0
+avoid;0
+definite;-3
+shifts (changes);0
+ignorant;-1
+reflects (indicates);0
+concise;-1
+factors;0
+enormous;0
+convene;0
+diminish;0
+discrete;0
+therefore (as a result);0
+participate;0
+proportion;0
+attest to (provide evidence of);0
+grant;0
+precise (exact);0
+certainly;0
+conquered;0
+abyss;0
+allowing for (making possible);0
+underground;0
+accumulate;0
+assess;0
+insight into (an understanding of);0
+refine;0
+surpass (be higher that);0
+vulnerable;0
+countries;0
+integral;0
+studying;0
+fee;0
+similar;0
+error;0
+claim;0
+intervene;0
+unnecessary;0
+occurring;0
+crucial;0
+frantically;0
+transit;0
+administration;0
+considerable;0
+rudimentary (primitive);0
+potential (capacity);0
+commence;0
+contention (debate);0
+required;0
+plugged up;0
+government;0
+hierarchy;0
+random;0
+trace;0
+beneficial;0
+lose;0
+nevertheless;0
+grade;-1
+critical;0
+considerable;0
+convince;0
+paradigm;0
+encounter;0
+bias;0
+bustling (busy);0
+superiority;-1
+abruptly (suddenly);0
+hypothesis;0
+considerable (significant);-1
+acquire (obtain);0
+fragile;0
+federal;0
+inconceivable;0
+investors;0
+significantly;0
+periodically (regularly);0
+physical;0
+minimal;0
+quite;0
+precise;0
+unimaginable;0
+instill;0
+notions (idea);0
+geographical;0
+liberal;0
+uniform;0
+opportunity;0
+domain (field of expertise);0
+proceed from this;0
+attains (reaches);0
+redundancy (duplication);0
+comprising;0
+propose (suggest);0
+posed (presented);0
+chemical;0
+prerequisite (requirement);0
+ideology;0
+radical;0
+unconsciously;0
+exploit (make use of, use to advantage);0
+summary;0
+rudimentary (basic);0
+drastically;-2
+lives;0
+considerably (significantly);0
+estimate;0
+canned;0
+reasonable (sufficient);0
+enormous (extremely large);0
+vehicles;0
+ornamentation - украшение;0
+supplement;0
+striking impression;0
+giant (huge);0
+illuminates (lights);0
+interpretation;0
+deposited;0
+file;0
+communication;0
+extensive (large);0
+bulk (largest part);0
+aid;0
+hazy;0
+agencies (forces);0
+journal;0
+impulse (basic motive);0
+reveal;0
+solace;0
+nevertheless (however);0
+abruptly (suddenly);0
+link;0
+endorsement;0
+rival (competing);0
+empirical;0
+ratio;0
+apparent in (clearly seen in);0
+bustling (lively);0
+scientific;0
+receiving;0
+dramatically (greatly);0
+exceptional (extraordinary);0
+infrastructure;0
+subsequent;0
+likewise (similarly);0
+converse;0
+facultative;0
+exclusive (sole);0
+pronounced (strongest);0
+philosophy;0
+currently (at the present time);0
+adequate;0
+reveal;0
+proliferation (increase);0
+crucial;-1
+overlap;-1
+harnessed (utilized);0
+revenue;0
+exploit;0
+isolate;0
+plus;0
+retarded (slowed down);0
+comprise;0
+collapse;-1
+onset (start);0
+considerable (significant);0
+luxury;0
+prosperity;0
+conducive to (favorable to);0
+harsh;0
+primarily;0
+sustain;0
+estate;0
+abstract;0
+highlight;0
+habits;0
+benefit;0
+comprehensive;0
+principal;0
+external;0
+exceedingly (highly);0
+drama;0
+comprising (made up of);-1
+aggregate;0
+silts;0
+focus;0
+extracted from (taken out);0
+diversified (varied);0
+exceed;0
+compatible;0
+vicious;0
+termed (known as);0
+reminisces;0
+mechanisms of natural selection (ways natural selection works);0
+accordingly;0
+fundamental;0
+tremendous (huge);0
+scarcity (lack);0
+portable (moveable);0
+gifted (talented);0
+sustain (maintain);0
+encounter;0
+abundance;0
+professional;0
+confer;0
+minor;0
+conventional (usual);0
+losing;0
+decent;0
+overhaul;0
+clarify;0
+diligently (with persistence and hard work);0
+cramped (confined);0
+distribution;0
+analyse;0
+websites;0
+complex;0
+shack;0
+expand;0
+overseas;0
+certain;0
+travelling;0
+regardless;-1
+brainchild (invention);0
+quote;0
+access;0
+despite;0
+target;0
+likewise (similarly);0
+lengthy (prolonged);0
+formula;0
+innovate;0
+minute (tiny);-1
+layer;0
+medical;0
+compression (crushing);-1
+mundane (ordinary);0
+academy;0
+pioneers (leaders);0
+core;0
+distinctive (characteristic);0
+renowned (famous);0
+device;0
+hinged;0
+preservative (something that keeps food fresh);-1
+ongoing;0
+albeit;0
+passive;0
+trivial (small);0
+overall (considered as a whole);0
+attain;0
+detect (find);0
+globe;0
+index;0
+belittles;0
+mediate;0
+simulate;0
+norm;0
+responsibility;0
+reference;0
+contradict;0
+rational;0
+encourages (promotes);0
+towards;0
+meant;0
+assemble;0
+approximating (resembling);0
+odd;0
+regulations;0
+refined (improved);-1
+abruptly;0
+adequate;0
+gamification;0
+bringing;0
+necessity;0
+customs;-1
+scientist;0
+challenge;0
+transition (change);0
+theme;0
+excellent;0
+exhibit (show);0
+variable;0
+adjust;0
+triggered (caused);0
+detect (reveal);0
+complement;0
+rebound (recover);0
+presumably (supposedly);0
+promising;0
+initiated (started);0
+hence;0
+specific;0
+impact (effect);0
+enormous;0
+drawbacks;0
+lavishly (richly);0
+occasionally (once in a while);0
+paragraph;0
+issues;0
+founded;0
+terrestrial (land);-1
+winds down;-1
+undertake;0
+scenario (situation);0
+coherence;0
+enjoy (experience);0
+available;0
+citizens;0
+sensible (reasonable);0
+configuration (shape);0
+abrupt (sudden);0
+approval;0
+compelling (persuasive);0
+retain;0
+give rise to (produce);0
+prime;0
+habits;0
+within;0
+regrettably (unfortunately);0
+physical;0
+arbitrate;0
+prime (high-quality);0
+to incite;-2
+nonetheless;0
+diminish (reduce);0
+undoubtedly (certainly);0
+sole;0
+however;0
+guideline;0
+valid;0
+gains (increases);-1
+skeptical (doubtful);0
+contemporary;0
+coping with (managing);0
+accompany;0
+anarchy (disorder);0
+assistance;0
+induce (stimulate);0
+goal;0
+surpluses (extra goods);-1
+range;0
+considerably;0
+throughput rate;0
+valuable;0
+cycle;0
+weakened;0
+substantiated (confirmed);0
+behalf;0
+progressive (increase);0
+distinguished;0
+horizon;0
+bond;0
+highlights (emphasizes);0
+efforts (attempts);-2
+persistent (long-lasting);0
+essential;0
+undermine;0
+perspective;0
+clause;0
+noticeable;0
+overall;0
+remnants (remains);0
+style;0
+notwithstanding;0
+detecting (discovering);0
+locate;0
+certainly;0
+entity;0
+assign;0
+threat;0
+invest;0
+capture;0
+restrict;-1
+city;0
+obstacle;0
+display;0
+foundation;0
+relatively (comparatively);0
+derived;0
+remove;-1
+unconsciously;0
+inherent;0
+attributed (credited);0
+infer;0
+luxury;0
+achievements;0
+this basis;0
+deviate;0
+preceding;0
+billionaire;0
+author;0
+pose;0
+drastically (extensively);0
+design;0
+emits (sends out);0
+nevertheless;0
+correspond;0
+composed of (made up of);-1
+foremost (earliest);0
+concentrate;0
+responses;0
+onset;0
+dispersed (spread out);0
+discussion;0
+diseased;0
+conduct;0
+evaluation;0
+injury;0
+legible (recognizable);-1
+associate;0
+network;0
+notion;0
+flawed (incorrect);0
+hense;0
+allegedly (supposedly);0
+debate;0
+keep pace with (matched the increased in);0
+sophisticated;0
+striking (attention getting);0
+create;0
+denote;-1
+severe (extreme);0
+after a while;0
+intricate;0
+critical (crucial);0
+suppress (stop by force);0
+vicinity (surrounding area);0
+commodity (product);0
+almost;0
+applied;0
+friendly;0
+crude (rough);0
+typical;0
+culminated in (reached a high point with);0
+corporate;0
+export;0
+source;0
+adjacent;0
+text;0
+enlist (recruit);0
+categories;0
+portion;0
+detract;0
+severed (cut of);0
+pertinent (relevant);0
+perceive;0
+impervious to (unaffected by);-1
+forthcoming;0
+worshipped;0
+qualitative;0
+primary reason;0
+thereby;0
+legitimately (officially) initiated (started);0
+domestic;0
+demolishes;0
+initiated (started);0
+desolate (deserted);0
+recoop;0
+transfer;0
+sum;0
+extracted (removed);0
+authority;0
+tape;0
+route;0
+revolution;0
+indicate;0
+technical;0
+modify (change);0
+military;0
+velocity;-2
+sponsored (supported);0
+into consideration;0
+distributed (spread);0
+indispensable (essential);0
+approaches (nears);0
+arbitrary;0
+survey;0
+initial;0
+abandon;0
+adored;0
+listening;0
+though;0
+acquisition;0
+consequently;0
+dispensable;0
+conquer;0
+inevitably (necessarily);0
+exhaust (used up);0
+project;0
+strained;0
+label;-1
+enable;0
+imaginative (creative);0
+although (whereas);0
+acquire;0
+elaborated upon (further developed);0
+community;0
+appropriate;0
+reluctant (unwilling);0
+implement;0
+galleries;0
+structure;0
+penetrate;0
+incidence;0
+depress;0
+notion;0
+progressively (increasingly);0
+lives;-1
+motive;0
+research;0
+inspect;0
+abundant (plentiful);0
+decisive (determining);0
+required;0
+assured (guaranteed);0
+available;0
+vulnerable (open to attack);0
+endeavors (efforts);0
+disrupt;-2
+via;0
+crucial;0
+exhibit;0
+fugitive;0
+revolutionised;-1
+prior;0
+contrast;0
+reduced;0
+academic success;0
+flaw (fault);0
+disrupt;0
+undergo;0
+incident;0
+restore;0
+depressions;0
+appraisal (evaluation);0
+process;0
+to have been accidental (to have occurred by chance);0
+secure;0
+thus;0
+crucially;0
+conspicuous (noticeable);0
+advantageous (beneficial);0
+abolishing (eliminating);-1
+notwithstanding;0
+compulsorily (by requirement);0
+deprive;0
+derives (obtains);0
+devastated (destroyed);0
+initial (first);0
+coordinate;0
+flow (movement);0
+parallel;0
+hindered;0
+diminish;0
+vanish;0
+capable;0
+consult;0
+compensate;0
+react;0
+consumption (utilization);0
+potentially (possibly);0
+vigorously (strong and healthy);0
+appreciate;0
+erode;0
+ample (plentiful);0
+basins;0
+violate;0
+financial;0
+contracted (shortened);0
+primary;0
+migrate;0
+hence (therefore);0
+generate;0
+provoked (brought about);0
+persist;0
+coincidence (at the same time and by chance);0
+monitor;0
+virtually (almost);0
+however;0
+indeed;0
+fairy;0
+promoted (encouraged);0
+task;0
+accommodate;0
+trapped (caught);0
+confer;0
+prefers;0
+flustered;0
+precise (exact);0
+consent;0
+cereals;0
+remnants (remains);-3
+coincidence;0
+cease;0
+obstacles;0
+chart;0
+would;0
+doubt;0
+resurgence (comeback);0
+underlying;-1
+register;-1
+intrinsic;-1
+major;0
+momentous (very important);0
+wander;0
+intelligible;0
+lecture;0
+deliberate;0
+received;0
+enhance;0
+nowadays;0
+established;-2
+frequent;0
+presence;0
+succession;0
+inequality;0
+confirm;-1
+items;0
+consumer;0
+subjected to (exposed to);0
+terminate;0
+notwithstanding;0
+partner;0
+eroded (worn down);0
+astoundingly (incredibly);0
+amend;0
+select;0
+modifies (changes);-1
+virtually (nearly);0
+dwelling (living);0
+series;0
+trend (tendency);-1
+equation;0
+consequences;0
+enormous (colossal);0
+citizenship;0
+concern;0
+radically;0
+mechanism for (means of);0
+empathic;0
+resentment;0
+ties (connections);0
+especially;0
+mature;0
+installed (put in place);0
+prosperity;0
+retain;0
+exhibited (displayed);0
+comprehension;0
+priority;0
+demonstrate;0
+noticeably (markedly);0
+significant;0
+likewise;0
+release;0
+adjacent (nearby);0
+cite;0
+norms (rules);0
+levy;0
+endorsement;0
+concomitant;0
+fund;0
+compound;0
+decline;0
+unbelievable;0
+now and then (occasionally);0
+tradition;0
+criticism;0
+diverse (varied);0
+enhance (increase);0
+credit;0
+efficacy (effectiveness);-1
+thereby;0
+speck;0
+pristine (pure);0
+stunning (impressive);0
+ratio (proportion);0
+hatred;0
+temporary;0
+comprehensive;0
+fringes (borders);0
+incentive;0
+diffusion (spread);0
+civil;0
+nevertheless;0
+impediment (obstruction);0
+orient;0
+alliances (partnerships);0
+modify;0
+magnates;0
+highlight;0
+episodes (occurrence);0
+version;0
+event;0
+sex;0
+prohibit (prevent);0
+resource;0
+businessman;0
+prospect (possibility);0
+facilitate;0
+known;0
+through;0
+detected (identified);-1
+persistent (continue);0
+advantage over;0
+conjunction (combination);0
+promote;0
+readily (easily);0
+embellishing (making more attractive);0
+consequences;0
+subordinate;0
+abundant (plentiful);0
+exceedingly (extremely);0
+gradually increase in number (accumulate);-1
+attach;0
+essential;0
+generating (producing);0
+durable (long lasting);0
+impose;0
+logic;0
+apartment;0
+pupils;0
+further (additional);0
+intact (whole);0
+standard;0
+potentially (possibly);0
+properly (appropriately);0
+exception;0
+consistently (reliably);0
+location (place);0
+intermediate;-2
+for this reason;0
+no one;0
+revised (changed);0
+intense (strong);-1
+somewhat;-1
+compulsory (required);0
+exasperated;0
+considerable (significant);0
+distinction;0
+manual;0
+disappeared;0
+principle;0
+percent;-1
+endeavor;0
+protocol;0
+piece;0
+readily (easily);0
+adapt;0
+vast;0
+abolished (ended);0
+road;0
+coincide;0
+hasten (accelerate);0
+accustomed to (used to);0
+precipitated (brought about);0
+decade;0
+criteria;0
+scrapped;0
+generation;0
+aspects;0
+essentials;0
+mutual;0
+consuming;0
+withstanding;0
+manipulate;0
+affect;0
+institute;0
+involved;0
+never would the lecturer agree;0
+subsidy;0
+elements;0
+timid (fearful);0
+alternative;0
+ensure;0
+traumatic (highly stressful);0
+maximise;0
+virtue (desirable quality);0
+appreciated (understood);0
+evidence;0
+compound;0
+chapter;0
+panel;0
+ingenious (clever);0
+deny;0
+plentiful (abundant);0
+confer;0
+colleague;0
+capacity;0
+occur;0
+proliferation (growth);0
+format;0
+involved (complicated);0
+individual;0
+classic;0
+opinion;0
